@@ -39,8 +39,3 @@ Nginx default page successfully accessible through public IP.
 <img width="1528" height="587" alt="Screenshot 2026-06-24 001853" src="https://github.com/user-attachments/assets/d1ebe725-2b8d-46d5-9bc6-e175b7df6605" />
 
 
-## Screenshots
-
-- EC2 Instance Running
-- Docker Container Running
-- Nginx Output Page
